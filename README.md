@@ -1,2 +1,2 @@
-# Firebase-Code
-Files required in Firebase Setup
+# Firebase-Code Prototype
+Branch Master has all the code you need for "Firebase Setup"
